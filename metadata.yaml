@@ -1,0 +1,28 @@
+_repo: Kitty-s-Conquest_37244
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37244-h/images/cover.jpg
+creator:
+  author:
+    agent_name: King, Charles
+    birthdate: 1844
+    deathdate: 1933
+    gutenberg_agent_id: '6787'
+    url: http://www.gutenberg.org/2009/agents/6787
+description: ''
+gutenberg_issued: '2011-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37244'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reconstruction (U.S. history, 1865-1877) -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Southern States -- History -- 1865-1877 -- Fiction'
+- !lcc 'PS'
+title: Kitty's Conquest
+url: http://www.gutenberg.org/ebooks/37244
